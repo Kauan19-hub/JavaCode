@@ -6,7 +6,7 @@ Tem como objetivo, criar projetos em Java com estrutura de pastas propícias e s
 
 ###
 
-📁 Estrutura de Diretórios
+**<h2>📁 Estrutura de Diretórios</h2>**
 
 ###
 ```css
