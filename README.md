@@ -2,11 +2,11 @@
 
 ###
 
-Tem como objetivo, criar projetos em Java com estrutura de pastas propícias e suporte a build com Maven ou Gradle.
+Its objective is to create Java projects with a suitable folder structure and support for building with Maven or Gradle. 
 
 ###
 
-**<h2>📁 Estrutura dos Diretórios</h2>**
+**<h2>📁 Directory Structure </h2>**
 
 ###
 ```css
@@ -31,7 +31,7 @@ java-template/
 
 ###
 
-**<h2>✅ Ferramentas Necessárias</h2>**
+**<h2>✅ Necessary Tools </h2>**
 
 ###
 
@@ -41,7 +41,7 @@ java-template/
 
 ###
 
-**<h2>💡 Exemplo de `pom.xml`</h2>**
+**<h2>💡 Example of `pom.xml`</h2>**
 
 ###
 ```xml
@@ -82,14 +82,13 @@ java-template/
 
 ###
 
-**<h2>📦 E aí, dev! Você está pronto?</h2**
+**<h2>📦 Hey, dev! Are you ready?</h2**
 
 ###
 
 - `CI/CD` - GitHub `Actions`;
-- Linters e formatadores;
-- Estrutura modular para evolução;
-- Testes automáticos.
+- Linters and formatters ;
+- Automation tests.
 
 ###
 
