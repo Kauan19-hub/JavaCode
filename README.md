@@ -82,7 +82,7 @@ java-template/
 
 ###
 
-**<h2>📦 Hey, dev! Are you ready?</h2**
+**<h2>📦 Hey, dev! Are you ready?</h2>**
 
 ###
 
