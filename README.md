@@ -1,10 +1,10 @@
-# Java (Vanilla / CLI Projects)
+**<h2>Java (Vanilla / CLI Projects)</h2>**
 
 ###
 
 Its objective is to create Java projects with a suitable folder structure and support for building with Maven or Gradle. 
 
-###
+---
 
 **<h2>📁 Directory Structure </h2>**
 
