@@ -6,7 +6,7 @@ Its objective is to create Java projects with a suitable folder structure and su
 
 ---
 
-**<h2>📁 Directory Structure </h2>**
+**<h2>Directory Structure </h2>**
 
 ###
 ```css
@@ -31,7 +31,7 @@ java-template/
 
 ###
 
-**<h2>✅ Necessary Tools </h2>**
+**<h2>Necessary Tools </h2>**
 
 ###
 
@@ -41,7 +41,7 @@ java-template/
 
 ###
 
-**<h2>💡 Example of `pom.xml`</h2>**
+**<h2>Example of `pom.xml`</h2>**
 
 ###
 ```xml
@@ -82,7 +82,7 @@ java-template/
 
 ###
 
-**<h2>📦 Hey, dev! Are you ready?</h2>**
+**<h2>Hey, dev! Are you ready?</h2>**
 
 ###
 
