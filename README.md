@@ -6,31 +6,6 @@ Its objective is to create Java projects with a suitable folder structure and su
 
 ---
 
-**<h2>Directory Structure </h2>**
-
-###
-```css
-java-template/
-│
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       └── com/
-│   │           └── example/
-│   │               └── App.java
-│   └── test/
-│       └── java/
-│           └── com/
-│               └── example/
-│                   └── AppTest.java
-│
-├── pom.xml
-├── .gitignore
-└── README.md
-```
-
-###
-
 **<h2>Necessary Tools </h2>**
 
 ###
