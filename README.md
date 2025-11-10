@@ -65,7 +65,11 @@ Its objective is to create Java projects with a suitable folder structure and su
 - Linters and formatters ;
 - Automation tests.
 
-###
+---
+
+<div align="left">
+  <img src="IMG-20251110-WA0003.jpg" />
+</div>
 
 
 
