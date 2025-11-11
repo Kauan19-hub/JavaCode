@@ -1,24 +1,3 @@
-**<h2>Java (Vanilla / CLI Projects)</h2>**
-
-###
-
-Its objective is to create Java projects with a suitable folder structure and support for building with Maven or Gradle. 
-
----
-
-**<h2>Necessary Tools </h2>**
-
-###
-
-- `Maven`;
-- `JUnit`;
-- `Checkstyle` ou `SpotBugs`.
-
-###
-
-**<h2>Example of `pom.xml`</h2>**
-
-###
 ```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -55,17 +34,11 @@ Its objective is to create Java projects with a suitable folder structure and su
 </project>
 ```
 
-###
-
-**<h2>Hey, dev! Are you ready?</h2>**
-
-###
-
-- `CI/CD` - GitHub `Actions`;
-- Linters and formatters ;
-- Automation tests.
-
 ---
+
+<div align="left">
+         <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/edabb434-2a4b-458d-8345-fc7f44c5c51c" />
+</div>
 
 
 
