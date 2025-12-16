@@ -7,7 +7,7 @@ A `back-end` application built in Java with the goal of improving knowledge of a
 ###
 
 ```powershell
-git clone https://github.com/Kauan19-hub/CodeByJava
+git clone https://github.com/kauanvinicius9/CodeByJava
 ```
 
 ---
