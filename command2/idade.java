@@ -1,7 +1,6 @@
 import java.util.Scanner;
-import java.util.SortedMap;
 
-public class Idade{
+public class idade{
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
 

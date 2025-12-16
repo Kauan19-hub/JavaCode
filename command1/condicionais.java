@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Condicionais {
+public class condicionais {
     public static void main(String[] args) {
         Scanner condicao = new Scanner(System.in);
 

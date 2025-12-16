@@ -1,6 +1,5 @@
-import java.io.StringReader;
 
-public class str_class {
+public class string {
     // Códigos ANSI para as cores da fonte
     public static final String RESET = "\033[0m";      // Resetando as cores
     public static final String VERMELHO = "\033[31m";   // Vermelho

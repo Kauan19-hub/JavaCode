@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PerguntasAlternativas {
+public class alternativa {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
